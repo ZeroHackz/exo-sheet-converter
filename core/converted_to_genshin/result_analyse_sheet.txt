@@ -1,0 +1,1974 @@
+
+[measure_attribute] divisions		= 4
+[measure_attribute] key-fifths		= 0
+[measure_attribute] time-beats		= 4
+[measure_attribute] time-beat-type	= 4
+[measure_attribute] clef-sign		= G
+[measure_attribute] clef-line		= 2
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 5
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= A
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= quarter
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= A
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= B
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 5
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= quarter
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= A
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= G
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 1 tick
+[1]signature	= 250
+[1]pitch-step	= F
+[1]pitch-octave	= 4
+[1]type		= 16th
+[1]tie found
+[1]None
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= F
+[3]pitch-octave	= 4
+[3]type		= eighth
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= F
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 6 tick
+[7]signature	= 1500
+[7]pitch-step	= F
+[7]pitch-octave	= 4
+[7]type		= quarter
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= C
+[8]pitch-octave	= 5
+[8]type		= quarter
+
+[9]duration	= 2 tick
+[9]signature	= 500
+[9]pitch-step	= F
+[9]pitch-octave	= 4
+[9]type		= eighth
+[9]tie found
+[9]None
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 1 tick
+[1]signature	= 250
+[1]pitch-step	= F
+[1]pitch-octave	= 4
+[1]type		= 16th
+[1]tie found
+[1]None
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= F
+[3]pitch-octave	= 4
+[3]type		= eighth
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= F
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 6 tick
+[7]signature	= 1500
+[7]pitch-step	= F
+[7]pitch-octave	= 4
+[7]type		= quarter
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= C
+[8]pitch-octave	= 5
+[8]type		= quarter
+
+[9]duration	= 2 tick
+[9]signature	= 500
+[9]pitch-step	= B
+[9]pitch-octave	= 4
+[9]type		= eighth
+[9]tie found
+[9]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= C
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= B
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 4 tick
+[5]signature	= 1000
+[5]pitch-step	= G
+[5]pitch-octave	= 4
+[5]type		= quarter
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= B
+[6]pitch-octave	= 4
+[6]type		= eighth
+[6]tie found
+[6]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= C
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= B
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= A
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= B
+[7]pitch-octave	= 4
+[7]type		= eighth
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 5
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= A
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= quarter
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= A
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= B
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 5
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= quarter
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= A
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= G
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 1 tick
+[1]signature	= 250
+[1]pitch-step	= F
+[1]pitch-octave	= 4
+[1]type		= 16th
+[1]tie found
+[1]None
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= F
+[3]pitch-octave	= 4
+[3]type		= eighth
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= F
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 6 tick
+[7]signature	= 1500
+[7]pitch-step	= F
+[7]pitch-octave	= 4
+[7]type		= quarter
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= C
+[8]pitch-octave	= 5
+[8]type		= quarter
+
+[9]duration	= 2 tick
+[9]signature	= 500
+[9]pitch-step	= F
+[9]pitch-octave	= 4
+[9]type		= eighth
+[9]tie found
+[9]None
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 1 tick
+[1]signature	= 250
+[1]pitch-step	= F
+[1]pitch-octave	= 4
+[1]type		= 16th
+[1]tie found
+[1]None
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= F
+[3]pitch-octave	= 4
+[3]type		= eighth
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= F
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 6 tick
+[7]signature	= 1500
+[7]pitch-step	= F
+[7]pitch-octave	= 4
+[7]type		= quarter
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= C
+[8]pitch-octave	= 5
+[8]type		= quarter
+
+[9]duration	= 2 tick
+[9]signature	= 500
+[9]pitch-step	= B
+[9]pitch-octave	= 4
+[9]type		= eighth
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= C
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= B
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 4 tick
+[5]signature	= 1000
+[5]pitch-step	= G
+[5]pitch-octave	= 4
+[5]type		= quarter
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= D
+[6]pitch-octave	= 4
+[6]type		= eighth
+[6]tie found
+[6]None
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= B
+[7]pitch-octave	= 4
+[7]type		= eighth
+[7]tie found
+[7]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= D
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= B
+[1]pitch-octave	= 4
+[1]type		= eighth
+[1]tie found
+[1]None
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= B
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 3 tick
+[5]signature	= 750
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 1 tick
+[6]signature	= 250
+[6]pitch-step	= A
+[6]pitch-octave	= 4
+[6]type		= 16th
+[6]tie found
+[6]None
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= A
+[7]pitch-octave	= 4
+[7]type		= eighth
+[7]tie found
+[7]None
+
+[8]duration	= 2 tick
+[8]signature	= 500
+[8]rest found
+[8]type		= eighth
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]rest found
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= D
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 6 tick
+[5]signature	= 1500
+[5]pitch-step	= E
+[5]pitch-octave	= 4
+[5]type		= quarter
+
+[6]duration	= 6 tick
+[6]signature	= 1500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= quarter
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]rest found
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= D
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= C
+[5]pitch-octave	= 5
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= B
+[7]pitch-octave	= 4
+[7]type		= eighth
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= A
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 3 tick
+[4]signature	= 750
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 1 tick
+[5]signature	= 250
+[5]pitch-step	= C
+[5]pitch-octave	= 5
+[5]type		= 16th
+[5]tie found
+[5]None
+
+[6]duration	= 4 tick
+[6]signature	= 1000
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= quarter
+[6]tie found
+[6]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]rest found
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= F
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= E
+[5]pitch-octave	= 5
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= D
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= C
+[7]pitch-octave	= 5
+[7]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 3 tick
+[1]signature	= 750
+[1]pitch-step	= A
+[1]pitch-octave	= 4
+[1]type		= eighth
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= F
+[2]pitch-octave	= 4
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 1 tick
+[3]signature	= 250
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= 16th
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= F
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= E
+[5]pitch-octave	= 5
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= F
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= E
+[7]pitch-octave	= 5
+[7]type		= eighth
+
+[8]duration	= 8 tick
+[8]signature	= 2000
+[8]pitch-step	= F
+[8]pitch-octave	= 4
+[8]type		= half
+
+[9]duration	= 8 tick
+[9]signature	= 2000
+[9]pitch-step	= E
+[9]pitch-octave	= 5
+[9]type		= half
+
+[0]duration	= 8 tick
+[0]signature	= 2000
+[0]rest found
+[0]type		= half
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]rest found
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= G
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= G
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= E
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 3 tick
+[1]signature	= 750
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= eighth
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 1 tick
+[3]signature	= 250
+[3]pitch-step	= D
+[3]pitch-octave	= 5
+[3]type		= 16th
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= E
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= D
+[5]pitch-octave	= 5
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= E
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= D
+[7]pitch-octave	= 5
+[7]type		= eighth
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= E
+[8]pitch-octave	= 4
+[8]type		= quarter
+
+[9]duration	= 6 tick
+[9]signature	= 1500
+[9]pitch-step	= D
+[9]pitch-octave	= 5
+[9]type		= quarter
+
+[10]duration	= 2 tick
+[10]signature	= 500
+[10]pitch-step	= D
+[10]pitch-octave	= 4
+[10]type		= eighth
+[10]tie found
+[10]None
+
+[11]duration	= 2 tick
+[11]signature	= 500
+[11]pitch-step	= B
+[11]pitch-octave	= 4
+[11]type		= eighth
+[11]tie found
+[11]None
+
+[0]duration	= 16 tick
+[0]signature	= 4000
+[0]pitch-step	= D
+[0]pitch-octave	= 4
+[0]type		= whole
+[0]tie found
+[0]None
+
+[1]duration	= 16 tick
+[1]signature	= 4000
+[1]pitch-step	= B
+[1]pitch-octave	= 4
+[1]type		= whole
+[1]tie found
+[1]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]rest found
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= D
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 6 tick
+[5]signature	= 1500
+[5]pitch-step	= C
+[5]pitch-octave	= 5
+[5]type		= quarter
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]rest found
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= D
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= C
+[5]pitch-octave	= 5
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= B
+[7]pitch-octave	= 4
+[7]type		= eighth
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= A
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 3 tick
+[4]signature	= 750
+[4]pitch-step	= D
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 1 tick
+[5]signature	= 250
+[5]pitch-step	= C
+[5]pitch-octave	= 5
+[5]type		= 16th
+[5]tie found
+[5]None
+
+[6]duration	= 4 tick
+[6]signature	= 1000
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= quarter
+[6]tie found
+[6]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]rest found
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= E
+[1]pitch-octave	= 5
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= D
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= F
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= E
+[5]pitch-octave	= 5
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= D
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= C
+[7]pitch-octave	= 5
+[7]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 3 tick
+[1]signature	= 750
+[1]pitch-step	= A
+[1]pitch-octave	= 4
+[1]type		= eighth
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= F
+[2]pitch-octave	= 4
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 1 tick
+[3]signature	= 250
+[3]pitch-step	= E
+[3]pitch-octave	= 5
+[3]type		= 16th
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= F
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= E
+[5]pitch-octave	= 5
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= F
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= E
+[7]pitch-octave	= 5
+[7]type		= eighth
+
+[8]duration	= 8 tick
+[8]signature	= 2000
+[8]pitch-step	= F
+[8]pitch-octave	= 4
+[8]type		= half
+
+[9]duration	= 8 tick
+[9]signature	= 2000
+[9]pitch-step	= E
+[9]pitch-octave	= 5
+[9]type		= half
+
+[0]duration	= 8 tick
+[0]signature	= 2000
+[0]rest found
+[0]type		= half
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]rest found
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= G
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= G
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= E
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 3 tick
+[1]signature	= 750
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= eighth
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 1 tick
+[3]signature	= 250
+[3]pitch-step	= D
+[3]pitch-octave	= 5
+[3]type		= 16th
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= E
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= D
+[5]pitch-octave	= 5
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= E
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= D
+[7]pitch-octave	= 5
+[7]type		= eighth
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= E
+[8]pitch-octave	= 4
+[8]type		= quarter
+
+[9]duration	= 6 tick
+[9]signature	= 1500
+[9]pitch-step	= D
+[9]pitch-octave	= 5
+[9]type		= quarter
+
+[10]duration	= 2 tick
+[10]signature	= 500
+[10]pitch-step	= D
+[10]pitch-octave	= 4
+[10]type		= eighth
+[10]tie found
+[10]None
+
+[11]duration	= 2 tick
+[11]signature	= 500
+[11]pitch-step	= B
+[11]pitch-octave	= 4
+[11]type		= eighth
+[11]tie found
+[11]None
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= D
+[0]pitch-octave	= 4
+[0]type		= quarter
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= B
+[1]pitch-octave	= 4
+[1]type		= quarter
+[1]tie found
+[1]None
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]rest found
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= A
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= B
+[7]pitch-octave	= 4
+[7]type		= eighth
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 5
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= A
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= quarter
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= A
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= B
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 5
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]pitch-step	= E
+[2]pitch-octave	= 4
+[2]type		= quarter
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= E
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+[5]tie found
+[5]None
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= B
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= G
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= G
+[2]pitch-octave	= 4
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= C
+[3]pitch-octave	= 5
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= B
+[4]pitch-octave	= 4
+[4]type		= eighth
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= A
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= G
+[6]pitch-octave	= 4
+[6]type		= eighth
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 1 tick
+[1]signature	= 250
+[1]pitch-step	= F
+[1]pitch-octave	= 4
+[1]type		= 16th
+[1]tie found
+[1]None
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= F
+[3]pitch-octave	= 4
+[3]type		= eighth
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= F
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 6 tick
+[7]signature	= 1500
+[7]pitch-step	= F
+[7]pitch-octave	= 4
+[7]type		= quarter
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= C
+[8]pitch-octave	= 5
+[8]type		= quarter
+
+[9]duration	= 2 tick
+[9]signature	= 500
+[9]pitch-step	= F
+[9]pitch-octave	= 4
+[9]type		= eighth
+[9]tie found
+[9]None
+
+[0]duration	= 3 tick
+[0]signature	= 750
+[0]pitch-step	= F
+[0]pitch-octave	= 4
+[0]type		= eighth
+[0]tie found
+[0]None
+
+[1]duration	= 1 tick
+[1]signature	= 250
+[1]pitch-step	= F
+[1]pitch-octave	= 4
+[1]type		= 16th
+[1]tie found
+[1]None
+
+[2]duration	= 1 tick
+[2]signature	= 250
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= 16th
+[2]tie found
+[2]None
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= F
+[3]pitch-octave	= 4
+[3]type		= eighth
+[3]tie found
+[3]None
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+[4]tie found
+[4]None
+
+[5]duration	= 2 tick
+[5]signature	= 500
+[5]pitch-step	= F
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 2 tick
+[6]signature	= 500
+[6]pitch-step	= C
+[6]pitch-octave	= 5
+[6]type		= eighth
+
+[7]duration	= 6 tick
+[7]signature	= 1500
+[7]pitch-step	= F
+[7]pitch-octave	= 4
+[7]type		= quarter
+
+[8]duration	= 6 tick
+[8]signature	= 1500
+[8]pitch-step	= C
+[8]pitch-octave	= 5
+[8]type		= quarter
+
+[9]duration	= 2 tick
+[9]signature	= 500
+[9]pitch-step	= B
+[9]pitch-octave	= 4
+[9]type		= eighth
+
+[0]duration	= 2 tick
+[0]signature	= 500
+[0]pitch-step	= D
+[0]pitch-octave	= 4
+[0]type		= eighth
+
+[1]duration	= 2 tick
+[1]signature	= 500
+[1]pitch-step	= B
+[1]pitch-octave	= 4
+[1]type		= eighth
+
+[2]duration	= 2 tick
+[2]signature	= 500
+[2]pitch-step	= C
+[2]pitch-octave	= 5
+[2]type		= eighth
+
+[3]duration	= 2 tick
+[3]signature	= 500
+[3]pitch-step	= B
+[3]pitch-octave	= 4
+[3]type		= eighth
+
+[4]duration	= 2 tick
+[4]signature	= 500
+[4]pitch-step	= C
+[4]pitch-octave	= 5
+[4]type		= eighth
+
+[5]duration	= 3 tick
+[5]signature	= 750
+[5]pitch-step	= B
+[5]pitch-octave	= 4
+[5]type		= eighth
+
+[6]duration	= 1 tick
+[6]signature	= 250
+[6]pitch-step	= A
+[6]pitch-octave	= 4
+[6]type		= 16th
+[6]tie found
+[6]None
+
+[7]duration	= 2 tick
+[7]signature	= 500
+[7]pitch-step	= A
+[7]pitch-octave	= 4
+[7]type		= eighth
+[7]tie found
+[7]None
+
+[8]duration	= 2 tick
+[8]signature	= 500
+[8]rest found
+[8]type		= eighth
+
+[0]duration	= 4 tick
+[0]signature	= 1000
+[0]pitch-step	= C
+[0]pitch-octave	= 4
+[0]type		= quarter
+
+[1]duration	= 4 tick
+[1]signature	= 1000
+[1]pitch-step	= A
+[1]pitch-octave	= 4
+[1]type		= quarter
+
+[2]duration	= 4 tick
+[2]signature	= 1000
+[2]rest found
+[2]type		= quarter
+
+[3]duration	= 8 tick
+[3]signature	= 2000
+[3]rest found
+[3]type		= half
