@@ -1,5 +1,6 @@
 # from xml.dom import minidom
 import xml.etree.ElementTree as ET
+from pprint import pprint
 
 # parse an xml file by name
 #mydoc = minidom.parse('items.xml')
@@ -110,6 +111,7 @@ def createFileWithContent(givenContent, givenOutputName):
 
 def convertRootToNotesSignature(xml_tree_root):
     xml_tree_music_part = xml_tree_root.findall('part')
+    xml_tree_xloc_last = ""
     sheet_settings = ""
     sheet_clef = "1"
     measure_beat_type = "1"
@@ -165,6 +167,7 @@ def convertRootToNotesSignature(xml_tree_root):
                 if(xml_tree_measure_notes != []) :
 
                     for idx, note in enumerate(xml_tree_measure_notes):
+                        # pprint(vars(xml_tree_measure_notes[idx]))
                         note_duration = note.find('duration')
                         note_time_signature = round((eval(note_duration.text) / eval(measure_beat_type) ) * 1000)
                         if(note_duration != None) :
@@ -182,6 +185,8 @@ def convertRootToNotesSignature(xml_tree_root):
                         xml_tree_pitch = note.find('pitch')
                         if(xml_tree_pitch != None) :
                             xml_tree_pitch_step = xml_tree_pitch.find('step')
+                            # print("["+str(idx)+"]"+'note default X = '+note.attrib['default-x'])
+                            xml_tree_xloc_current = note.attrib['default-x']
                             if(xml_tree_pitch_step != None) :
                                 print("["+str(idx)+"]"+'pitch-step\t= ' + str(xml_tree_pitch_step.text))
                                 result_analyse_sheet +="\n"+"["+str(idx)+"]"+'pitch-step\t= ' + str(xml_tree_pitch_step.text)
@@ -191,8 +196,16 @@ def convertRootToNotesSignature(xml_tree_root):
                                 print("["+str(idx)+"]"+'pitch-octave\t= '+ str(xml_tree_pitch_octave.text))
                                 result_analyse_sheet +="\n"+"["+str(idx)+"]"+'pitch-octave\t= '+ str(xml_tree_pitch_octave.text)
                                 xml_tree_pitch_octave_value = str(xml_tree_pitch_octave.text)
+                            if((xml_tree_pitch_octave != None) & (xml_tree_pitch_step != None) & (xml_tree_xloc_current == xml_tree_xloc_last)) :
+                                #method_1 adding notes with & symbols
+                                # result_note_song = result_note_song.strip()
+                                # result_note_song += "&"+str(xml_tree_pitch_step_value)+str(xml_tree_pitch_octave_value)+'_'+str(note_time_signature)+" "
+                                #method_2 adding notes without extra symbols
+                                last_note_pitch_pos = result_note_song.rindex('_')
+                                result_note_song = result_note_song[:last_note_pitch_pos] + str(xml_tree_pitch_step_value)+str(xml_tree_pitch_octave_value)+ result_note_song[last_note_pitch_pos:]
                             if((xml_tree_pitch_octave != None) & (xml_tree_pitch_step != None)) :
                                 result_note_song += str(xml_tree_pitch_step_value)+str(xml_tree_pitch_octave_value)+'_'+str(note_time_signature)+" "
+                            xml_tree_xloc_last = xml_tree_xloc_current
                         #define note type
                         xml_tree_type = note.find('type')
                         if(xml_tree_type != None) :
@@ -213,7 +226,7 @@ def convertRootToNotesSignature(xml_tree_root):
                             print("["+str(idx)+"]"+ str(xml_tree_tie.text))
                             result_analyse_sheet +="\n"+"["+str(idx)+"]"+ str(xml_tree_tie.text)
         createFileWithContent(result_analyse_sheet, 'result_analyse_sheet.txt')
-        print('\n \n Converted Sheet Settings: ' + sheet_settings)
+        # print('\n \n Converted Sheet Settings: ' + sheet_settings)
     return result_note_song
 def convertSongSignatureToGenshin(song_signature) :
     result_sheet_lyre_song = song_signature
@@ -226,9 +239,9 @@ print('\n\n STARTING CODE \n\n')
 ## Global Variables
 input_location="sheets_xml/"
 input_sheetname="Duet_for_Piano_and_Violin"
-input_sheetname="SenoritaShort_v4"
-input_sheetname="SenoritaShort_v1"
-input_sheetname="SenoritaXML"
+input_sheetname="SEORITA_easyOnlyG"
+input_sheetname="its-a-small-world-disney-piano-level-6"
+input_sheetname="Adele_-_Someone_Like_You"
 input_extension=".xml"
 output_file_location = "converted_to_genshin/"
 output_file_name = str(input_sheetname)+'.txt'
@@ -244,7 +257,7 @@ convertedLyreSongSignature = convertSongSignatureToGenshin(convertedSheetSongSig
 # print('\n \n Converted Lyre Song: ' + convertedLyreSong)
 # createFileWithContent(convertedLyreSong,output_file_name);
 # print('\n \n Converted Sheet Signature : ' + convertedSheetSongSignature)
-createFileWithContent(convertedSheetSongSignature,(output_file_name+'_full_signature'));
+# createFileWithContent(convertedSheetSongSignature,(output_file_name+'_full_signature'));
 print('\n \n Converted Lyre Signature : ' + convertedLyreSongSignature)
 createFileWithContent(convertedLyreSongSignature,(output_file_name+'_lyre'));
 
